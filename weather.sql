@@ -1,0 +1,1 @@
+SELECT * FROM weather_data_schema.weather_data;
